@@ -21,16 +21,19 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ea4b9cb6-3a8f-4bba-89bd-f8d9be20266c" alt="typescript" width="40" height="40"/> </a>
   
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1da0f8e9-ed4e-4cc8-8ce3-7d45cd5d8949" alt="angular" width="40" height="40"/>
+ </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-</p>
 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dc3dfa87-89ca-46a9-8cf4-81730e13d1ae" alt="postman" width="40" height="40"/> </a> 
+</p>
 
 ## My Github Stats
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikdakua03&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="anikdakua03" /></p>
