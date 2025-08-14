@@ -4,8 +4,7 @@
 <h3 align="left">A Software Engineer, trying to be better day by day -- </h3>
 
 - I'm currently working as a Full-time Engineer, modernizing on-premise applications by migrating them to cloud-based solutions.
-- In my free time, I'm actively sharpening my problem-solving skills by studying Data Structures and Algorithms and exploring various design patterns. I'm also building a personal project from the ground up, handling both the front-end and back-end development.
-
+- In my free time, I'm actively sharpening my problem-solving skills by studying Data Structures and Algorithms and exploring various design patterns. 
 
 
 
