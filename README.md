@@ -1,11 +1,10 @@
-# <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Anik Dakua</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp>&gt; Hi there, I'm <a href="[https://gkassym.netlify.app](https://github.com/anikdakua03)" target="_blank">Anik Dakua</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
 <h3 align="left">A Software Engineer, trying to be better day by day -- </h3>
 
-- Currently working as a Full Time Engineer .
-- I’m currently learning and practicing problem-solving using Data Structures and Algorithms and also different types of design patterns.
-- Besides that, I’m currently working on a little personal project that includes both frontend and backend parts. 
+- I'm currently working as a Full-time Engineer, modernizing on-premise applications by migrating them to cloud-based solutions.
+- In my free time, I'm actively sharpening my problem-solving skills by studying Data Structures and Algorithms and exploring various design patterns. I'm also building a personal project from the ground up, handling both the front-end and back-end development.
 
 
 
