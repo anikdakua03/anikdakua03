@@ -1,4 +1,4 @@
-# <samp>&gt; Hi there, I'm <a href="[https://gkassym.netlify.app](https://github.com/anikdakua03)" target="_blank">Anik Dakua</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+ # <samp>&gt; Hi there, I'm <a href="https://github.com/anikdakua03" target="_blank">Anik Dakua</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
 <h3 align="left">A Software Engineer, trying to be better day by day -- </h3>
